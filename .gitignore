@@ -1,0 +1,9 @@
+obj/
+bin/
+packages/
+*.pubxml.user
+*.csproj.user
+.vs/
+PostDeployScripts/
+WebRole1/
+.vscode/
